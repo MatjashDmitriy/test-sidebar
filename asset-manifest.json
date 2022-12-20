@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-sidebar/static/css/main.e6c13ad2.css",
+    "main.js": "/test-sidebar/static/js/main.8f95be45.js",
+    "index.html": "/test-sidebar/index.html",
+    "main.e6c13ad2.css.map": "/test-sidebar/static/css/main.e6c13ad2.css.map",
+    "main.8f95be45.js.map": "/test-sidebar/static/js/main.8f95be45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f95be45.js"
+  ]
+}
